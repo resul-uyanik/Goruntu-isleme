@@ -1,0 +1,16 @@
+# Büyük Yapay Zeka Modelleri (GitHub'a yüklenmesini engeller)
+*.pt
+
+# OpenCV Cascade Sınıflandırıcıları (İsteğe bağlı, yer kaplamasın dersen)
+# haarcascade_frontalface_default.xml
+
+# Kodun Çalışırken Ürettiği Çıktı Resimleri ve Loglar
+benim_cizimim.jpg
+bulunan_yuzler.jpg
+
+# Python'ın otomatik oluşturduğu önbellek klasörleri
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+.idea/
